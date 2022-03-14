@@ -18,10 +18,10 @@ You then start to fill the other filters: city, state, county and shape. Once ea
 
 Drawbacks: 
 
-    - A drawback about this webpage are the filters. When a user is searching for a shape or city, they would have to go through the list, instead of having a dropdown of the options.
+- A drawback about this webpage are the filters. When a user is searching for a shape or city, they would have to go through the list, instead of having a dropdown of the options.
 
 Recommendations:
 
-    - One recommendation that the website can benefit from is having a drop down. This will make users life easier when filtering for a specifc date or location
+- One recommendation that the website can benefit from is having a drop down. This will make users life easier when filtering for a specifc date or location
 
-    - Second recommendation is add a button that clears all results. I would not want to run a filter on top of information that is alredy there. There is a sense of rielf when we clear data that we do not need.
+- Second recommendation is add a button that clears all results. I would not want to run a filter on top of information that is alredy there. There is a sense of rielf when we clear data that we do not need.
