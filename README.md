@@ -12,6 +12,7 @@ In order to perform a search you must go to the "Filter Search" where the user w
 Once the date is inputted, the change is dected and the table automatically updates.
 
 You then start to fill the other filters: city, state, county and shape. Once each section is filled. the table gets updated with the correct data. 
+![Alt](https://github.com/mquimi/UFOs/blob/main/images/results.png)
 
 There is a description of how to perform a search, with images. (4 pt)
 ### Summary:
